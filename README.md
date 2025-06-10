@@ -12,5 +12,5 @@ Pasos a seguir con esta pagina:
 
 -- La estetica de la pagina (css)
 
-Utilizamos varios codigos... 
+Proyecto realizado dentro del bootcamp de Factoria F5.
 
